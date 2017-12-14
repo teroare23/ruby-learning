@@ -1,0 +1,16 @@
+// Place all the styles related to the Posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.site-header {
+     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e6c84+0,29a5bb+30,2295ac+60,29a5bb+81,5fccdd+97 */
+  background: #1e6c84; /* Old browsers */
+  background: -moz-linear-gradient(left, #1e6c84 0%, #29a5bb 30%, #2295ac 60%, #29a5bb 81%, #5fccdd 97%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #1e6c84 0%,#29a5bb 30%,#2295ac 60%,#29a5bb 81%,#5fccdd 97%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #1e6c84 0%,#29a5bb 30%,#2295ac 60%,#29a5bb 81%,#5fccdd 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e6c84', endColorstr='#5fccdd',GradientType=1 ); /* IE6-9 */
+}
+
+.site-header h1 {
+  color: white;
+}
